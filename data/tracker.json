@@ -518,10 +518,12 @@
     "channel": "form",
     "channelUrl": "https://apps.ualberta.ca/directory/person/skazemit",
     "subject": "Research Opportunities with Majeed (form)",
-    "status": "form_needed",
+    "status": "sent",
     "hook": "AI-assisted programming / cognitive engagement with AI code",
     "paperOrFit": "Exploring the Design Space of Cognitive Engagement Techniques with AI-Generated Code (IUI 2025); CodeAid (CHI 2024)",
-    "notes": "Seeking MSc/PhD. Fill directory form; also formal CS application by Dec 15. Do not email-only."
+    "notes": "Seeking MSc/PhD. Fill directory form; also formal CS application by Dec 15. Do not email-only.; Submitted Majeed Research Opportunities Google Form 2026-11-05. Formal CS portal Dec 15 still pending. Placeholder transcript.",
+    "sentAt": "2026-11-05T13:54:11Z",
+    "body": "Google Form (Research Opportunities with Majeed) — see drafts/forms/kazemitabaar_directory_form.md"
   },
   {
     "id": "f02",
@@ -532,10 +534,11 @@
     "channel": "form",
     "channelUrl": "https://grad.ucalgary.ca/future-students/supervisor/lorenzo-de-carli",
     "subject": "Contact this supervisor (FGS form)",
-    "status": "form_needed",
+    "status": "sent",
     "hook": "Software security / AI security",
     "paperOrFit": "AI security, software supply chain, usable security (profile)",
-    "notes": "Accepting Inquiries MSc/PhD ECE. Prefer FGS contact form."
+    "notes": "Accepting Inquiries MSc/PhD ECE. Prefer FGS contact form.; Submitted UCalgary FGS Contact this supervisor form 2026-11-05. Confirmation token page. No CV upload field.",
+    "sentAt": "2026-11-05T13:46:05Z"
   },
   {
     "id": "f03",
@@ -546,10 +549,12 @@
     "channel": "form",
     "channelUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc48hyevp7HKF4tMigHOy_vnZTpwSyYfoFP56hK968YC8Jnwg/viewform",
     "subject": "Expression of interest (Google Form only)",
-    "status": "form_needed",
+    "status": "sent",
     "hook": "Agentic AI, LLMs, cyber, SE, AIOps",
     "paperOrFit": "When AI Coding Assistants Leak Training Data (AIware 2026, Yao); agentic AI recruiting post",
-    "notes": "They do not accept applications via email. Form only."
+    "notes": "They do not accept applications via email. Form only.; Submitted Ontario Tech ANTS Google Form 2026-11-05 (Alex accepted risk). Placeholder transcript; GPA/IELTS pending noted in form.",
+    "sentAt": "2026-11-05T13:50:34Z",
+    "body": "Google Form submission (ANTS Lab MSc) — see drafts/forms/yang_yao_google_form.md for interest text; transcript placeholder + pending GPA/IELTS disclosed."
   },
   {
     "id": "f04",
@@ -714,10 +719,11 @@
     "channel": "form",
     "channelUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc48hyevp7HKF4tMigHOy_vnZTpwSyYfoFP56hK968YC8Jnwg/viewform",
     "subject": "Use shared Yang/Yao Google Form",
-    "status": "form_needed",
+    "status": "sent",
     "hook": "LLM coding assistant memorization / leakage",
     "paperOrFit": "When AI Coding Assistants Leak Training Data (AIware 2026)",
-    "notes": "Verified email on homepage, but recruiting post says form only."
+    "notes": "Verified email on homepage, but recruiting post says form only.; Submitted Ontario Tech ANTS Google Form 2026-11-05 (Alex accepted risk). Placeholder transcript; GPA/IELTS pending noted in form.",
+    "sentAt": "2026-11-05T13:50:34Z"
   },
   {
     "id": "r33",
